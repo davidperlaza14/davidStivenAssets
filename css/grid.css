@@ -1,0 +1,46 @@
+.filas{
+    display: flex;
+    margin-top: 90px;
+    margin-left: 40px;
+}
+.columna-1{
+    width: 33%;
+    padding: 16px;
+}
+.columna-2{
+    width: 33%;
+    margin-top: 40px;
+    padding-right: 16px;
+}
+.columna-3{
+    width: 33%;
+    padding: 16px;
+}
+.columna-4{
+    width: 300px;
+    height: 300px;
+    margin-left: 40%;
+    margin-top: 0px;
+    padding-top: 20px;
+    
+   
+}
+.columna-5{
+   margin-top: 50px;
+   padding:100px;
+}
+.columna-6{
+   text-align: center;
+}
+.columna-7{
+    text-align: center;
+ }
+.contenedor-4:hover{
+    background-color: rgb(4, 17, 133);
+    padding-left: 5px;
+    display: flex;
+}
+.aside:hover{
+    background-color: rgb(75, 73, 73);
+   display:flex;
+}
